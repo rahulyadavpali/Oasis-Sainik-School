@@ -1,0 +1,20 @@
+/*-- user_panel_css --*/
+.sub_heading h3{font-size: 25px;font-weight: 600;color: #262626;}
+
+.stats_det, .war_message{line-height: 30px;}
+.stats_det li{font-size: 18px;font-weight: 500;}
+.stats_det li a{color: #126487;}
+.dsah_ftr p{font-size: 16px;font-weight: 400;color: #404040;}
+
+.war_message li{color: #AF0000;font-size: 20px;font-weight: 400;}
+
+.box_btn{float: right;margin-right: 20px;margin-top: 40px;}
+.pnl_img{width: 200px;height: auto;}
+.pnl_img img{width: 100%;}
+
+.image-preview{width: 180px;height: 180px;margin: 0 auto;border: 1px solid #6699ff;border-radius: 5px;padding: 10px;background-repeat: no-repeat;background-size: contain !important;}
+.frm_pre h6{text-align: center;}
+
+
+
+

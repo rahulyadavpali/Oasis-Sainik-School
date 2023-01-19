@@ -1,0 +1,56 @@
+@media only screen and (max-width: 1920px)
+{}
+
+@media only screen and (max-width: 1370px)
+{
+    .tp-header__transparent .main-menu ul li{margin-right: 18px;}
+}
+
+@media only screen and (max-width: 1260px)
+{
+    .tp-header__transparent .main-menu ul li .submenu li a{padding: 5px 10px;}
+}
+
+@media only screen and (max-width: 1199px)
+{
+    .tp-header__transparent .main-menu ul li a{font-size: 12px;}
+    .abt_txt h3{padding-top: 20px;font-size: 25px;}
+    .tp-testimonial-2__review p, .tp-testimonial__review p{font-size: 14px;}
+    .welcome_txt h3{padding-top: 0;font-size: 25px;}
+    .submenu_option ul{width: 28%;}
+}
+
+@media only screen and (max-width: 991px)
+{
+    .ham_menu, .mobile_menu{display: block;}
+    .submenu_image, .desktop_menu{display: none;}
+    .submenu_option ul{width: 100%;}
+    .submenu_option ul li a{font-weight: 400;}
+}
+
+@media only screen and (max-width: 767px)
+{
+    .home_about_section{border-bottom: 1px dashed #222d23;padding-bottom: 30px;}
+    .tp-testimonial__review{padding: 30px 0;}
+    .abt_txtdiv{padding: 0 30px;}
+    .ftr_address p{font-size: 14px;}
+}
+
+@media only screen and (max-width: 640px)
+{}
+
+@media only screen and (max-width: 575px)
+{
+    .tp-header__main{padding-top: 10px;padding-bottom: 10px;}
+    .abt_txt h3, .welcome_txt h3{font-size: 20px;}
+}
+
+@media only screen and (max-width: 479px)
+{
+    .abt_txt h3, .welcome_txt h3{font-size: 18px;}
+    .tp-testimonial-2__review p, .tp-testimonial__review p{font-size: 12px;}
+    .ftr_address p, .copy_txt p{font-size: 12px;margin-bottom: 5px;}
+}
+
+@media only screen and (max-width: 400px)
+{}

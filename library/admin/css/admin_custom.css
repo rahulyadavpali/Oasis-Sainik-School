@@ -1,0 +1,24 @@
+.clear{ clear:both;	}
+.move_left{ float:left; display:block; text-align:left !important;}
+.move_right{ float:right; display:block; text-align:right !important;}
+.move_center{ text-align:center !important;}
+.form_bttm_padding{margin-bottom:0px;}
+.margin_left_remove{margin-left:0px;}
+.small_padding_left{padding-left:10px !important;}
+.give_height{ height:218px !important; resize:none;}
+.give_bottom_margin{ margin-bottom:15px !important;}
+.give_btn_width{width:12%; margin-right:2px !important; vertical-align:middle;}
+.vmiddle{padding:6px 0px; margin-bottom:0px;}
+.padding_zero{padding:0px !important;}
+.give_box_height{ height:1600px !important;}
+.only_float_right{float:right;}
+.only_float_left{float:left;}
+.give_full_width{width:100% !important;}
+.remove_padding_top{padding-top:0px !important;}
+.no_resize{resize:none;}
+.remove_dot{ list-style:none;}
+.give_tabel_width{width:80% !important;}
+
+
+
+
